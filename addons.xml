@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.AlbinAwizard" name="[COLOR yellow][B]AlbinA[/COLOR] [COLOR white]Wizard[/B][/COLOR]" version="1.0.2" provider-name="just a bee">
+<addon id="plugin.program.albinawizard" name="[COLOR yellow][B]AlbinA[/COLOR] [COLOR white]Wizard[/B][/COLOR]" version="1.0.2" provider-name="just a bee">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
